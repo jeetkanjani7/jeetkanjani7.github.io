@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, The LNM Institute of Information Technology, 2018
+* M.S. in Computer Vision, Carnegie Mellon University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018 - Present: 
+  * Oxehealth Ltd
+  * Duties included: Conduct computer vision research
   
+
+* Summer 2017 : Torr Vision Group 
+  * University of Oxford
+  * Duties included: Worked on OxSight glasses, Deep Pose Estimation
+  * Supervisor: [Stuart Golodetz](http://research.gxstudios.net/)
+
 Skills
 ======
 * Skill 1
