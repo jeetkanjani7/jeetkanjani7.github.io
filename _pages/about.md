@@ -1,27 +1,20 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-My name is Jeet Kanjani. I am a Research Engineer at [Oxehealth](https://www.oxehealth.com/).
+My name is Jeet Kanjani and I am currently a Research Engineer at [Oxehealth](https://www.oxehealth.com/). I am an incoming masters student at Carnegie Mellon University from Jan'2021 under the supervision of Prof [Kris Kitani](http://www.cs.cmu.edu/~kkitani/). I have interned and collaborated with [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) at the University of Oxford where I was supervised by Dr [Stuart Golodetz](http://research.gxstudios.net/) and Dr [Stephen Hicks](https://www.ox.ac.uk/news-and-events/find-an-expert/dr-stephen-hicks). I obtained my Bachelor of Engineering degree in Computer Science from The LNM Institute of Information Technology, India. 
 
-My Research Interest
+Areas of Interest
 ======
-Meta learning
+* I am interested and have worked on the software engineering aspects of machine learning such as building ETL pipelines and microservices around a model.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+* I am interested in w
+x`x```
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 

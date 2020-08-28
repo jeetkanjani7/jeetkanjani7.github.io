@@ -2,9 +2,12 @@
 main:
 
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blogs/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
     
+  - title: "Portfolio"
+    url: /portfolio/
+  

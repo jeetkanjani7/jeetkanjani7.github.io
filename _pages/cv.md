@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, The LNM Institute of Information Technology, 2018
-* M.S. in Computer Vision, Carnegie Mellon University, 2021
+* M.S. in Computer Vision, Carnegie Mellon University, 2021 (starts from Jan'2021)
 
 Work experience
 ======
