@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[PDF](../files/Kanjani_Jeet_resume.pdf)
+[PDF](https://jeetkanjani7.github.io/files/Kanjani_Jeet_resume.pdf)
 ======
