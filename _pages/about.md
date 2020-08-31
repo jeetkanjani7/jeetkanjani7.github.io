@@ -9,8 +9,5 @@ redirect_from:
 ---
 My name is Jeet Kanjani and I am currently a Research Engineer at [Oxehealth](https://www.oxehealth.com/). I am an incoming masters student at Carnegie Mellon University from Jan'2021 under the supervision of Prof [Kris Kitani](http://www.cs.cmu.edu/~kkitani/). I have interned and collaborated with [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) at the University of Oxford where I was supervised by Dr [Stuart Golodetz](http://research.gxstudios.net/) and Dr [Stephen Hicks](https://www.ox.ac.uk/news-and-events/find-an-expert/dr-stephen-hicks). I obtained my Bachelor of Engineering degree in Computer Science from The LNM Institute of Information Technology, India. 
 
-Areas of Interest
-======
-* I am interested and have worked on the software engineering aspects of machine learning such as building ETL pipelines and microservices around a model.
 
 
