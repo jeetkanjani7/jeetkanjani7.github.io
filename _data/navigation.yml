@@ -6,7 +6,7 @@ main:
     url: /blogs/
     
   - title: "Resume"
-    url: /resume/
+    url: /Resume/
     
   - title: "Projects"
     url: /projects/
