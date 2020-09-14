@@ -1,6 +1,6 @@
 ---
 title: "AR Treasure Hunt"
-excerpt: "<br/><img src='/images/ar.png'  height='500' width='500'>"
+excerpt: "<br/><img src='/images/ar.png'  height='300' width='300'>"
 collection: projects
 ---
 [Code Link](https://github.com/jeetkanjani7/AR-Treasure-Hunt)
