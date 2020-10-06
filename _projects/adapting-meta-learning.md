@@ -1,5 +1,5 @@
 ---
-title: "Addressing meta learning in few shot learning"
+title: "Addressing domain adaptation in few shot learning"
 excerpt: ""
 collection: projects
 ---
