@@ -1,6 +1,6 @@
 ---
 title: "Far3Det"
-excerpt: "Towards Far field 3D detection"<br/><img src='/images/far3det.pdf'>"
+excerpt: "Towards Far field 3D detection"<br/><img src='/images/far3det.png'>"
 collection: projects
 ---
 [Project Page](https://mscvprojects.ri.cmu.edu/2021teamf/)
