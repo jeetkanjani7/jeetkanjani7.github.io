@@ -6,5 +6,5 @@ redirect_from:
   - /resume
 ---
 
-[PDF](https://jeetkanjani7.github.io/files/Kanjani_Jeet_S21.pdf)
+[PDF](https://jeetkanjani7.github.io/files/Kanjani-Jeet-S21.pdf)
 ======
