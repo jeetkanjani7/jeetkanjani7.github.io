@@ -1,6 +1,6 @@
 ---
 title: "Robust Factor Graph attention"
-excerpt: "Making Factor Graph attention Robust"<br/><img src='/images/robustVisdial.png'>"
+excerpt: "Making Factor Graph attention Robust<br/><img src='/images/robustVisdial.png'>"
 collection: projects
 ---
 [Paper](https://jeetkanjani7.github.io/files/MultiModal_Final_Report.pdf)
