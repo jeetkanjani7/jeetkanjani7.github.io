@@ -5,7 +5,7 @@ collection: projects
 ---
 [Paper](https://jeetkanjani7.github.io/files/MultiModal_Final_Report.pdf)
 [Poster](https://jeetkanjani7.github.io/files/poster-presentation2.pdf)
-===========
+
 
 
 
