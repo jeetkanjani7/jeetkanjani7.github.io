@@ -7,7 +7,39 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign projects = site.projects %}
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
+<!-- Far3Det -->
+{% for post in projects %}
+  {% if post.title == "Far3Det" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- Robust Factor Graph attention -->
+{% for post in projects %}
+  {% if post.title == "Robust Factor Graph attention" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- Parallel NMS -->
+{% for post in projects %}
+  {% if post.title == "Parralel NMS" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- QuickHOG -->
+{% for post in projects %}
+  {% if post.title == "QuickHOG: Real time pedestrian detection" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- Recurrent Siamese Network -->
+{% for post in projects %}
+  {% if post.title == "Recurrent Siamese Network for Object Tracking " %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %} 
