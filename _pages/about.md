@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Jeet Kanjani. I am currently a Machine Learning Engineer at Meta, where I focus on training and inference optimization for multimodal foundation models powering ranking across Facebook and Instagram. Before Meta, I lead optimizations for video models powering Just Walk out models at Amazon. 
 
-My name is Jeet Kanjani. I am a student in [Master of Science in Computer Vision (MSCV)](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) at the School of Computer Science, [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof [Deva Ramanan]((http://www.cs.cmu.edu/~deva/)). I recently interned with the Metropolis team at NVIDIA AI this summer. Prior to joining CMU, I was a Research Engineer at [Oxehealth](https://www.oxehealth.com/) for two years based in the beautiful city of Oxford. During my bachelors, I interned and collaborated with [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) at the University of Oxford where I was supervised by Dr [Stuart Golodetz](http://research.gxstudios.net/) and Dr [Stephen Hicks](https://www.ox.ac.uk/news-and-events/find-an-expert/dr-stephen-hicks).
+I hold a Master of Science in Computer Vision (MSCV) from the School of Computer Science, Carnegie Mellon University, where I was advised by Prof. Deva Ramanan. During my time at CMU, I interned with the Metropolis team at NVIDIA AI, working on video understanding at scale.
 
-Email: jkanjani[at]andrew[dot]cmu[dot]edu
+Prior to CMU, I worked as a Research Engineer at Oxehealth for two years in Oxford, focusing on camera-based vital sign monitoring. During my undergraduate studies, I collaborated with the Torr Vision Group at the University of Oxford, under the supervision of Dr. Stuart Golodetz and Dr. Stephen Hicks.
+
+Email: jeetkanjani7[at]gmail[dot]com
 
 
